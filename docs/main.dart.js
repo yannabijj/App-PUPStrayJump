@@ -21374,24 +21374,24 @@ a_e:function a_e(a,b){this.a=a
 this.b=b},
 KF:function KF(){},
 KG:function KG(){},
-avi(a){switch(a.a){case 3:return $.ahV.V()
-case 0:return $.ai_.V()
-case 1:return $.ai2.V()
-case 4:return $.ahY.V()
-case 5:return $.ahW.V()
-case 2:return $.ai0.V()
-case 6:return $.ai4.V()
-case 7:return $.ai7.V()
-case 8:return $.ai5.V()
-case 9:return $.ai9.V()
-case 10:return $.aic.V()
-case 11:return $.aia.V()
-case 12:return $.aie.V()
-case 13:return $.aih.V()
-case 14:return $.aif.V()
-case 15:return $.aij.V()
-case 16:return $.aim.V()
-case 17:return $.aik.V()}},
+avi(a){switch(a.a){case 3:return $.ahU.V()
+case 0:return $.ahZ.V()
+case 1:return $.ai1.V()
+case 4:return $.ahX.V()
+case 5:return $.ahV.V()
+case 2:return $.ai_.V()
+case 6:return $.ai3.V()
+case 7:return $.ai6.V()
+case 8:return $.ai4.V()
+case 9:return $.ai8.V()
+case 10:return $.aib.V()
+case 11:return $.ai9.V()
+case 12:return $.aid.V()
+case 13:return $.aig.V()
+case 14:return $.aie.V()
+case 15:return $.aii.V()
+case 16:return $.ail.V()
+case 17:return $.aij.V()}},
 al3(a){switch(a.a){case 2:case 5:case 8:case 11:case 14:case 17:return!0
 default:return!1}},
 al0(a,b){var s,r,q,p=null,o=new A.e(new Float64Array(2))
@@ -21455,9 +21455,9 @@ _.w=!1
 _.y=m
 _.Q=n
 _.as=o},
-avD(a){switch(a.a){case 0:return $.ahR.V()
+avD(a){switch(a.a){case 0:return $.ahQ.V()
 case 1:return $.ahJ.V()
-case 2:return $.ae4.V()}},
+case 2:return $.ae3.V()}},
 pq:function pq(a,b){this.a=a
 this.b=b},
 vL:function vL(a,b,c,d,e,f,g,h,i,j,k,l,m,n){var _=this
@@ -22239,41 +22239,41 @@ while(true)switch(s){case 0:m=$.PW
 s=2
 return A.E(A.ed("loki_fall.png"),$async$dS)
 case 2:m.saA(b)
-m=$.ae5
+m=$.ae4
 s=3
 return A.E(A.ed("loki_jump.png"),$async$dS)
 case 3:m.saA(b)
-m=$.ae6
+m=$.ae5
 s=4
 return A.E(A.ed("mila_fall.png"),$async$dS)
 case 4:m.saA(b)
-m=$.ahT
+m=$.ahS
 s=5
 return A.E(A.ed("mila_jump.png"),$async$dS)
 case 5:m.saA(b)
-m=$.ae7
+m=$.ae6
 s=6
 return A.E(A.ed("milo_fall.png"),$async$dS)
 case 6:m.saA(b)
-m=$.ahU
+m=$.ahT
 s=7
 return A.E(A.ed("milo_jump.png"),$async$dS)
 case 7:m.saA(b)
-m=$.ae8
+m=$.ae7
 s=8
 return A.E(A.ed("po_fall.png"),$async$dS)
 case 8:m.saA(b)
-m=$.aio
+m=$.ain
 s=9
 return A.E(A.ed("po_jump.png"),$async$dS)
 case 9:m.saA(b)
-m=$.ae3
+m=$.ae8
 s=10
-return A.E(A.ed("ewan_fall.png"),$async$dS)
+return A.E(A.ed("toffee_fall.png"),$async$dS)
 case 10:m.saA(b)
-m=$.ahN
+m=$.aio
 s=11
-return A.E(A.ed("ewan_jump.png"),$async$dS)
+return A.E(A.ed("toffee_jump.png"),$async$dS)
 case 11:m.saA(b)
 m=$.as0
 s=12
@@ -22306,18 +22306,18 @@ p.toString
 o=q.aP("HearthEnemy2")
 o.toString
 n=t.pj
-$.ahO.saA(A.afD(A.b([p,o],n),!0,0.2))
+$.ahN.saA(A.afD(A.b([p,o],n),!0,0.2))
 o=q.aP("Lightning1")
 o.toString
 p=q.aP("Lightning2")
 p.toString
-$.ahS.saA(A.afD(A.b([o,p],n),!0,0.15))
+$.ahR.saA(A.afD(A.b([o,p],n),!0,0.15))
 p=q.aP("Coin")
 p.toString
 $.ae2.saA(p)
 p=q.aP("Pistol")
 p.toString
-$.ae4.saA(p)
+$.ae3.saA(p)
 p=q.aP("Bullet")
 p.toString
 $.ahK.saA(p)
@@ -22329,108 +22329,108 @@ p.toString
 $.ahJ.saA(p)
 p=q.aP("Jetpack_Small")
 p.toString
-$.ahR.saA(p)
+$.ahQ.saA(p)
 p=q.aP("Bubble_Big")
 p.toString
 $.ahI.saA(p)
 p=q.aP("Jetpack_Big")
 p.toString
-$.ahP.saA(p)
+$.ahO.saA(p)
 p=q.aP("JetFire1")
 p.toString
 o=q.aP("JetFire2")
 o.toString
-$.ahQ.saA(A.afD(A.b([p,o],n),!0,0.15))
+$.ahP.saA(A.afD(A.b([p,o],n),!0,0.15))
 n=q.aP("LandPiece_DarkBeige")
 n.toString
-$.ahV.saA(n)
+$.ahU.saA(n)
 n=q.aP("LandPiece_LightBeige")
 n.toString
-$.ahY.saA(n)
+$.ahX.saA(n)
 n=q.aP("BrokenLandPiece_Beige")
 n.toString
-$.ahW.saA(n)
+$.ahV.saA(n)
 n=q.aP("HalfLandPiece_Left_Beige")
 n.toString
-$.ahX.saA(n)
+$.ahW.saA(n)
 n=q.aP("HalfLandPiece_Right_Beige")
 n.toString
-$.ahZ.saA(n)
+$.ahY.saA(n)
 n=q.aP("LandPiece_DarkBlue")
 n.toString
-$.ai_.saA(n)
+$.ahZ.saA(n)
 n=q.aP("LandPiece_LightBlue")
 n.toString
-$.ai2.saA(n)
+$.ai1.saA(n)
 n=q.aP("BrokenLandPiece_Blue")
 n.toString
-$.ai0.saA(n)
+$.ai_.saA(n)
 n=q.aP("HalfLandPiece_Left_Blue")
 n.toString
-$.ai1.saA(n)
+$.ai0.saA(n)
 n=q.aP("HalfLandPiece_Right_Blue")
 n.toString
-$.ai3.saA(n)
+$.ai2.saA(n)
 n=q.aP("LandPiece_DarkGray")
 n.toString
-$.ai4.saA(n)
+$.ai3.saA(n)
 n=q.aP("LandPiece_LightGray")
 n.toString
-$.ai7.saA(n)
+$.ai6.saA(n)
 n=q.aP("BrokenLandPiece_Gray")
 n.toString
-$.ai5.saA(n)
+$.ai4.saA(n)
 n=q.aP("HalfLandPiece_Left_Gray")
 n.toString
-$.ai6.saA(n)
+$.ai5.saA(n)
 n=q.aP("HalfLandPiece_Right_Gray")
 n.toString
-$.ai8.saA(n)
+$.ai7.saA(n)
 n=q.aP("LandPiece_DarkGreen")
 n.toString
-$.ai9.saA(n)
+$.ai8.saA(n)
 n=q.aP("LandPiece_LightGreen")
 n.toString
-$.aic.saA(n)
+$.aib.saA(n)
 n=q.aP("BrokenLandPiece_Green")
 n.toString
-$.aia.saA(n)
+$.ai9.saA(n)
 n=q.aP("HalfLandPiece_Left_Green")
 n.toString
-$.aib.saA(n)
+$.aia.saA(n)
 n=q.aP("HalfLandPiece_Right_Green")
 n.toString
-$.aid.saA(n)
+$.aic.saA(n)
 n=q.aP("LandPiece_DarkMulticolored")
 n.toString
-$.aie.saA(n)
+$.aid.saA(n)
 n=q.aP("LandPiece_LightMulticolored")
 n.toString
-$.aih.saA(n)
+$.aig.saA(n)
 n=q.aP("BrokenLandPiece_Multicolored")
 n.toString
-$.aif.saA(n)
+$.aie.saA(n)
 n=q.aP("HalfLandPiece_Left_Multicolored")
 n.toString
-$.aig.saA(n)
+$.aif.saA(n)
 n=q.aP("HalfLandPiece_Right_Multicolored")
 n.toString
-$.aii.saA(n)
+$.aih.saA(n)
 n=q.aP("LandPiece_DarkPink")
 n.toString
-$.aij.saA(n)
+$.aii.saA(n)
 n=q.aP("LandPiece_LightPink")
 n.toString
-$.aim.saA(n)
+$.ail.saA(n)
 n=q.aP("BrokenLandPiece_Pink")
 n.toString
-$.aik.saA(n)
+$.aij.saA(n)
 n=q.aP("HalfLandPiece_Left_Pink")
 n.toString
-$.ail.saA(n)
+$.aik.saA(n)
 n=q.aP("HalfLandPiece_Right_Pink")
 n.toString
-$.ain.saA(n)
+$.aim.saA(n)
 return A.H(null,r)}})
 return A.I($async$dS,r)},
 ed(a){var s=0,r=A.J(t.vz),q,p
@@ -69783,7 +69783,7 @@ var $async$au=A.K(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:s=2
 return A.E(q.iH(),$async$au)
 case 2:q.ch=!1
-p=$.ahO.V().a
+p=$.ahN.V().a
 p=A.b(p.slice(0),A.U(p))
 q.aV(A.afC(B.ad,new A.q_(p,!0),null,$.ap3()))
 return A.H(null,r)}})
@@ -69824,11 +69824,11 @@ case 2:if(q.r!==2){q.r=2
 p=q.ea()
 if(p!=null&&q.e!=null){n=q.e
 n.toString
-p.ay.A(0,n)}}n=$.ahP.V()
+p.ay.A(0,n)}}n=$.ahO.V()
 q.aV(A.hi(B.ad,null,$.ap7(),n))
 n=new A.e(new Float64Array(2))
 n.a5(0,0.55)
-o=$.ahQ.V().a
+o=$.ahP.V().a
 o=A.b(o.slice(0),A.U(o))
 q.aV(A.afC(B.ad,new A.q_(o,!0),n,$.ap6()))
 return A.H(null,r)}})
@@ -69839,7 +69839,7 @@ var $async$au=A.K(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:s=2
 return A.E(q.iH(),$async$au)
 case 2:q.ch=!1
-p=$.ahS.V().a
+p=$.ahR.V().a
 p=A.b(p.slice(0),A.U(p))
 q.aV(A.afC(B.ad,new A.q_(p,!0),null,$.ap9()))
 return A.H(null,r)}})
@@ -69887,12 +69887,12 @@ return A.E(A.pQ(),$async$rC)
 case 2:l=k.c7(b.a.j(0,"equipped_character"))
 if(l==null)l="Loki"
 if(l==="Loki"){p=$.PW.V()
-o=$.ae5.V()}else if(l==="Mila"){p=$.ae6.V()
-o=$.ahT.V()}else if(l==="Milo"){p=$.ae7.V()
-o=$.ahU.V()}else if(l==="Po"){p=$.ae8.V()
-o=$.aio.V()}else if(l==="Ewan"){p=$.ae3.V()
-o=$.ahN.V()}else{p=$.PW.V()
-o=$.ae5.V()}n=$.ah4()
+o=$.ae4.V()}else if(l==="Mila"){p=$.ae5.V()
+o=$.ahS.V()}else if(l==="Milo"){p=$.ae6.V()
+o=$.ahT.V()}else if(l==="Po"){p=$.ae7.V()
+o=$.ain.V()}else if(l==="Toffee"){p=$.ae8.V()
+o=$.aio.V()}else{p=$.PW.V()
+o=$.ae4.V()}n=$.ah4()
 m=A.hi(B.ad,null,n,p)
 q.rx!==$&&A.bh()
 q.rx=m
@@ -70061,23 +70061,23 @@ while(true)switch(s){case 0:s=2
 return A.E(q.iH(),$async$au)
 case 2:q.ch=!1
 p=A.Y("sprite")
-switch(q.ry.a){case 5:if(q.RG)p.b=$.ahX.V()
-else p.b=$.ahZ.V()
+switch(q.ry.a){case 5:if(q.RG)p.b=$.ahW.V()
+else p.b=$.ahY.V()
 break
-case 2:if(q.RG)p.b=$.ai1.V()
-else p.b=$.ai3.V()
+case 2:if(q.RG)p.b=$.ai0.V()
+else p.b=$.ai2.V()
 break
-case 8:if(q.RG)p.b=$.ai6.V()
-else p.b=$.ai8.V()
+case 8:if(q.RG)p.b=$.ai5.V()
+else p.b=$.ai7.V()
 break
-case 11:if(q.RG)p.b=$.aib.V()
-else p.b=$.aid.V()
+case 11:if(q.RG)p.b=$.aia.V()
+else p.b=$.aic.V()
 break
-case 14:if(q.RG)p.b=$.aig.V()
-else p.b=$.aii.V()
+case 14:if(q.RG)p.b=$.aif.V()
+else p.b=$.aih.V()
 break
-case 17:if(q.RG)p.b=$.ail.V()
-else p.b=$.ain.V()
+case 17:if(q.RG)p.b=$.aik.V()
+else p.b=$.aim.V()
 break
 default:throw A.f("Wrong platform type exception")}o=p.aS()
 q.aV(A.hi(B.ad,null,$.adL(),o))
@@ -70375,7 +70375,7 @@ b=$.ae2.V()
 p=new A.e(new Float64Array(2))
 p.o4(25)
 b=A.hi(null,null,p,b)
-p=$.ae4.V()
+p=$.ae3.V()
 o=new A.e(new Float64Array(2))
 o.o4(35)
 p=A.hi(null,null,o,p)
@@ -70584,7 +70584,7 @@ A.It.prototype={
 aB(){var s="Aweeee ah2 oh, ah uh, aweee.!"
 this.b_()
 this.rD()
-this.d=A.b([new A.jZ("Loki",$.PW.V(),"U ii a i u ii i a i. U ii a i u ii i a i."),new A.jZ("Mila",$.ae6.V(),s),new A.jZ("Milo",$.ae7.V(),s),new A.jZ("Ewan",$.ae3.V(),s),new A.jZ("Po",$.ae8.V(),"Aweeee ah oh, ah uh, aweee.!")],t.fd)},
+this.d=A.b([new A.jZ("Loki",$.PW.V(),"U ii a i u ii i a i. U ii a i u ii i a i."),new A.jZ("Mila",$.ae5.V(),s),new A.jZ("Milo",$.ae6.V(),s),new A.jZ("Toffee",$.ae8.V(),s),new A.jZ("Po",$.ae7.V(),"Aweeee ah oh, ah uh, aweee.!")],t.fd)},
 rD(){var s=0,r=A.J(t.H),q=this,p
 var $async$rD=A.K(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:p=A
@@ -76050,59 +76050,59 @@ $.ahL=A.Y("buttonPause")
 $.PV=A.Y("buttonBack")
 $.ahH=A.Y("background")
 $.PW=A.Y("lokiFall")
-$.ae5=A.Y("lokiJump")
-$.ae6=A.Y("milaFall")
-$.ahT=A.Y("milaJump")
-$.ae7=A.Y("miloFall")
-$.ahU=A.Y("miloJump")
-$.ae8=A.Y("poFall")
-$.aio=A.Y("poJump")
-$.ae3=A.Y("ewanFall")
-$.ahN=A.Y("ewanJump")
+$.ae4=A.Y("lokiJump")
+$.ae5=A.Y("milaFall")
+$.ahS=A.Y("milaJump")
+$.ae6=A.Y("miloFall")
+$.ahT=A.Y("miloJump")
+$.ae7=A.Y("poFall")
+$.ain=A.Y("poJump")
+$.ae8=A.Y("toffeeFall")
+$.aio=A.Y("toffeeJump")
 $.as0=A.Y("blackProfile")
 $.ahM=A.Y("cloudHappyEnemy")
 $.as1=A.Y("cloudAngryEnemy")
-$.ahO=A.Y("hearthEnemy")
-$.ahS=A.Y("lightning")
+$.ahN=A.Y("hearthEnemy")
+$.ahR=A.Y("lightning")
 $.ae2=A.Y("coin")
-$.ae4=A.Y("gun")
+$.ae3=A.Y("gun")
 $.ahK=A.Y("bullet")
 $.as2=A.Y("spring")
 $.ahJ=A.Y("bubbleSmall")
-$.ahR=A.Y("jetpackSmall")
+$.ahQ=A.Y("jetpackSmall")
 $.ahI=A.Y("bubble")
-$.ahP=A.Y("jetpack")
-$.ahQ=A.Y("jetpackFire")
-$.ahV=A.Y("platformBeige")
-$.ahY=A.Y("platformBeigeLight")
-$.ahW=A.Y("platformBeigeBroken")
-$.ahX=A.Y("platformBeigeLeft")
-$.ahZ=A.Y("platformBeigeRight")
-$.ai_=A.Y("platformBlue")
-$.ai2=A.Y("platformBlueLight")
-$.ai0=A.Y("platformBlueBroken")
-$.ai1=A.Y("platformBlueLeft")
-$.ai3=A.Y("platformBlueRight")
-$.ai4=A.Y("platformGray")
-$.ai7=A.Y("platformGrayLight")
-$.ai5=A.Y("platformGrayBroken")
-$.ai6=A.Y("platformGrayLeft")
-$.ai8=A.Y("platformGrayRight")
-$.ai9=A.Y("platformGreen")
-$.aic=A.Y("platformGreenLight")
-$.aia=A.Y("platformGreenBroken")
-$.aib=A.Y("platformGreenLeft")
-$.aid=A.Y("platformGreenRight")
-$.aie=A.Y("platformMulticolor")
-$.aih=A.Y("platformMulticolorLight")
-$.aif=A.Y("platformMulticolorBroken")
-$.aig=A.Y("platformMulticolorLeft")
-$.aii=A.Y("platformMulticolorRight")
-$.aij=A.Y("platformPink")
-$.aim=A.Y("platformPinkLight")
-$.aik=A.Y("platformPinkBroken")
-$.ail=A.Y("platformPinkLeft")
-$.ain=A.Y("platformPinkRight")
+$.ahO=A.Y("jetpack")
+$.ahP=A.Y("jetpackFire")
+$.ahU=A.Y("platformBeige")
+$.ahX=A.Y("platformBeigeLight")
+$.ahV=A.Y("platformBeigeBroken")
+$.ahW=A.Y("platformBeigeLeft")
+$.ahY=A.Y("platformBeigeRight")
+$.ahZ=A.Y("platformBlue")
+$.ai1=A.Y("platformBlueLight")
+$.ai_=A.Y("platformBlueBroken")
+$.ai0=A.Y("platformBlueLeft")
+$.ai2=A.Y("platformBlueRight")
+$.ai3=A.Y("platformGray")
+$.ai6=A.Y("platformGrayLight")
+$.ai4=A.Y("platformGrayBroken")
+$.ai5=A.Y("platformGrayLeft")
+$.ai7=A.Y("platformGrayRight")
+$.ai8=A.Y("platformGreen")
+$.aib=A.Y("platformGreenLight")
+$.ai9=A.Y("platformGreenBroken")
+$.aia=A.Y("platformGreenLeft")
+$.aic=A.Y("platformGreenRight")
+$.aid=A.Y("platformMulticolor")
+$.aig=A.Y("platformMulticolorLight")
+$.aie=A.Y("platformMulticolorBroken")
+$.aif=A.Y("platformMulticolorLeft")
+$.aih=A.Y("platformMulticolorRight")
+$.aii=A.Y("platformPink")
+$.ail=A.Y("platformPinkLight")
+$.aij=A.Y("platformPinkBroken")
+$.aik=A.Y("platformPinkLeft")
+$.aim=A.Y("platformPinkRight")
 $.oQ=A.Y("prefs")
 $.alE=null
 $.a3z=null})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
