@@ -72187,7 +72187,7 @@ $2(a,b){return A.lX(A.b([A.WI("assets/ui/hsTitle.png",B.U,B.fb,b.d*0.45,b.b*0.9)
 $S:164}
 A.Y3.prototype={
 $0(){var s=$.aqS()
-if(!s.a){$.ara().kD("bg.ogg",0.5)
+if(!s.a){$.ara().kD("bg.mp3",5)
 s.a=!0}A.Rv(this.a,B.hH)},
 $S:0}
 A.Y4.prototype={
