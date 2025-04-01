@@ -69872,7 +69872,7 @@ s=2
 return A.E(q.iH(),$async$au)
 case 2:q.ch=!1
 if(A.e8()!==B.a9)A.e8()
-p.a=0
+p.a=0.5
 $.are()
 q.b1=$.apV().JU(B.R).hv(new A.a_e(p,q))
 s=3
@@ -70014,7 +70014,7 @@ A.a_e.prototype={
 $1(a){var s,r=B.c.fD(a.a*-1,-0.8,0.8)
 if(Math.abs(r)<0.05)r=0
 s=this.a
-s.a=this.b.xr=s.a*0.7+r*0.3},
+s.a=this.b.xr=s.a*0.30000000000000004+r*0.7},
 $S:456}
 A.KF.prototype={}
 A.KG.prototype={}
